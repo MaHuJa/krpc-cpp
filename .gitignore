@@ -213,3 +213,5 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
+protobuf/krpc.pb.cc
+protobuf/krpc.pb.h
