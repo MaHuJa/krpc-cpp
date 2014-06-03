@@ -8,6 +8,7 @@
 #include <iostream>
 #include <string>
 
-
+#include <boost/asio.hpp>
+namespace asio = boost::asio;
 
 // TODO: reference additional headers your program requires here
