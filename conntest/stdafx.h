@@ -12,5 +12,5 @@
 #include <boost/asio.hpp>
 namespace asio = boost::asio;
 
+#include "../protobuf/krpc.pb.h"
 
-// TODO: reference additional headers your program requires here
