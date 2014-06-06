@@ -215,3 +215,4 @@ pip-log.txt
 .mr.developer.cfg
 protobuf/krpc.pb.cc
 protobuf/krpc.pb.h
+conntest/krpcdump.txt
